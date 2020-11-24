@@ -1,2 +1,2 @@
-# aqua_portfolio
+# aquila_portfolio
 A portfolio theme for developers
