@@ -18,4 +18,4 @@ function aquila_portfolio_enqueue_script() {
 	wp_enqueue_script( 'main-js' );
 }
 
-add_action( 'wp_enqueue_scripts', 'aquila_portfolio_enqueue_script' );
+add_action( 'wp_enqueue_scripts', 'aquila_portfolio_enqueue_script'  );
